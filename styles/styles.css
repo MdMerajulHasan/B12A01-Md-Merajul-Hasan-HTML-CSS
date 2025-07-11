@@ -155,3 +155,8 @@ ul{
     align-items: center;
     text-align: center;
 }
+.reviews{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
