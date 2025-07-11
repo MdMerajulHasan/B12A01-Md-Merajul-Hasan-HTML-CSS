@@ -21,8 +21,10 @@ header{
     background-size:auto;
 }
 nav{
+    width: 80%;
+    margin: auto;
     display: flex;
-    justify-content:space-around;
+    justify-content:space-between;
     padding: 51px 0px;
 }
 nav p{
@@ -53,7 +55,7 @@ button{
     width: 80%;
     margin: 116px auto;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
 }
 
