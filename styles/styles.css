@@ -49,6 +49,10 @@ button{
     padding: 12px 36px;
     border-radius: 10px; 
 }
+button:hover{
+    cursor: pointer;
+    background-color: #0e09aa;
+}
 .banner{
     display: flex;
     flex-direction: column;
