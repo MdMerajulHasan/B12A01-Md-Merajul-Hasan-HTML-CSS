@@ -49,4 +49,27 @@ button{
     text-align: center;
 }
 
+.action{
+    width: 80%;
+    margin: 116px auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.action-title{
+    font-weight: bold;
+    color: #252432;
+}
+.action-subtitle{
+    color: rgba(37, 36, 50, 0.5)
+}
+.action-img{
+    width: 403px;
+    height: 328px;
+}
+.action-img > img{
+        border-radius: 48px;
+
+}
 
