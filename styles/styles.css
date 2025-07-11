@@ -99,8 +99,26 @@ button{
     font-size: 3rem;
     margin-bottom: 0px;
 }
-.secondary-text{
+.secondary-text, ::placeholder{
     font-size: small;
     color: rgba(0, 0, 0, 0.5);
     margin-top: 0px;
+}
+.get-in-touch{
+    width: 80%;
+    margin: auto;
+    display: flex;
+}
+.touch-title{
+    width: 50%;
+    font-size: 4em;
+    color: #000000;
+}
+form{
+    width:50%;
+}
+input, textarea{
+    border: 1px solid #D6DDED;
+    padding: 20px 32px;
+
 }
